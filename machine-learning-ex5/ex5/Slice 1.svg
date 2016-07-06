@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="259px" height="300px" viewBox="0 0 259 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M34.5,161.5 L62.5,125.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <path id="Line-decoration-1" d="M62.5,125.5 L53.5013847,132.183182 L58.237498,135.866826 L62.5,125.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="Hasty-theta" sketch:type="MSTextLayer" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+            <tspan x="19" y="172">Hasty theta</tspan>
+        </text>
+        <text id="Explanation:-we-can-" sketch:type="MSTextLayer" font-family="Helvetica" font-size="9" font-weight="normal" fill="#000000">
+            <tspan x="35" y="202">Explanation: we can always</tspan>
+            <tspan x="35" y="213">fit simple data with a simple</tspan>
+            <tspan x="35" y="224">explanation - but that explanation</tspan>
+            <tspan x="35" y="235">won’t fit random data if the explanation</tspan>
+            <tspan x="35" y="246">is wrong or “hasty”. Now, with more data </tspan>
+            <tspan x="35" y="257">a simple explanation will simply get more things</tspan>
+            <tspan x="35" y="268">wrong BUT it will still be better on unseen data than</tspan>
+            <tspan x="35" y="279">with the hasty theta.</tspan>
+        </text>
+        <text id="Jtrain(θ)" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14.0399995" font-weight="normal" fill="#000000">
+            <tspan x="164" y="114">Jtrain(θ)</tspan>
+        </text>
+        <text id="Jcv-(θ)" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14.0399995" font-weight="normal" fill="#000000">
+            <tspan x="156" y="59">Jcv (θ)</tspan>
+        </text>
+        <text id="Learning-Curve" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14.0399995" font-weight="normal" fill="#000000">
+            <tspan x="39" y="34">Learning Curve</tspan>
+        </text>
+        <path d="M40.1619139,40.3467631 C53.005943,67.1855161 70.4941397,87.3964839 203.781253,84.7832026" id="Path-3" stroke="#30B9CC" stroke-width="1.55999994" sketch:type="MSShapeGroup"></path>
+        <path d="M35,147 C105.709274,83.2065382 134.2472,86.7379 205.006622,86.7378999" id="Path-4" stroke="#D52424" stroke-width="1.55999994" sketch:type="MSShapeGroup"></path>
+        <path d="M35.5,42.6761626 L35.5,149.217391" id="Line" stroke="#171515" stroke-width="1.55999994" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <path d="M33.7818182,149.5 L204.247684,149.5" id="Line" stroke="#171515" stroke-width="1.55999994" stroke-linecap="square" sketch:type="MSShapeGroup"></path>
+        <text id="J" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14.0399995" font-weight="normal" fill="#000000">
+            <tspan x="14" y="100">J</tspan>
+        </text>
+        <text id="sample-size" sketch:type="MSTextLayer" font-family="Helvetica" font-size="14.0399995" font-weight="normal" fill="#000000">
+            <tspan x="103" y="172">sample size</tspan>
+        </text>
+        <path d="M168.5,45.5 L221.5,86.5" id="Line" stroke="#979797" stroke-linecap="square" sketch:type="MSShapeGroup" transform="translate(195.000000, 66.000000) scale(-1, 1) translate(-195.000000, -66.000000) "></path>
+        <path id="Line-decoration-1" d="M221.5,86.5 L214.793284,77.5189107 L211.122051,82.2646508 L221.5,86.5 Z" stroke="#979797" stroke-linecap="square"></path>
+        <text id="Tapped-out-theta" sketch:type="MSTextLayer" font-family="Helvetica" font-size="8" font-weight="normal" fill="#000000">
+            <tspan x="192" y="42">Tapped out theta</tspan>
+        </text>
+    </g>
+</svg>
